@@ -6,6 +6,10 @@
     padding: 0;
     font-family: 'Poppins', sans-serif;
 }
+html ,body{
+    width: 100%;
+    overflow-x: hidden;
+}
 /* header style starts */
 .header{
     width: 100%;
