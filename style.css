@@ -1,0 +1,32 @@
+/* google fonts */
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+.header{
+    width: 100%;
+    background-color: #264653;
+    
+}
+.header h1{
+    font-size: 48px;
+    font-weight: bold;
+    color:white;
+}
+.header p{
+    font-size: 14px;
+    color: #E0E0E0;
+}
+.features-bike img {
+    width: 288px;
+    height: 243px;
+}
+.user-img{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+}
